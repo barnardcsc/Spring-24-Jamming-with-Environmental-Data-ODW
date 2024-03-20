@@ -13,7 +13,7 @@ You can reach the CSC at csc@barnard.edu, Kiley Matschke at kmatschk@barnard.edu
 
 
 
-## This workshop is structured as follows:
+## Workshop structure:
   1. Introductions: the CSC, NYC Open Data Week 2024
   2. *Part I:* Learn how to analyze a dataset and generate visualizations in Google Colab, then extend these findings in ChatGPT.
   3. *Part II:* Participants split into groups for a data jam which focuses on creative ways to present data (songs, collages, stories,
