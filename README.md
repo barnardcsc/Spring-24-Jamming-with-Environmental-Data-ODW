@@ -3,6 +3,9 @@
 
 This workshop is taught by Kiley Matschke (CSC Post-Baccalaureate Fellow) and Marko Krkeljas (Senior Software & Applications Developer, CSC Technical Manager).
 
+## Contact
+You can reach the CSC at csc@barnard.edu or reach out to Kiley Matschke at kmatschk@barnard.edu or Marko Krkeljas at mkrkelja@barnard.edu.
+
 
 Join us in celebrating NYC Open Data Week! This two-part workshop and data jam will explore data analysis and visualization utilizing NYC environmental data. In the first half of this workshop, participants will explore ChatGPT’s data capabilities and contrast them with their own analyses via Google Co-lab. In the second half, participants will work in small groups to ideate and produce creative, accessible projects that showcase their data findings (i.e; in the form of collages, songs, stories, etc.). This workshop will explore the importance of data presentations and their impact on viewer perceptions. People from all backgrounds and coding levels are welcome! Beginner friendly.
 
