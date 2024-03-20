@@ -6,7 +6,7 @@ Join us in celebrating NYC Open Data Week! This two-part workshop and data jam w
 **Instructors & contact:**
 
 
-This workshop is taught by Kiley Matschke (CSC Post-Baccalaureate Fellow) and Marko Krkeljas (Senior Software & Applications Developer, CSC Technical Manager).
+Kiley Matschke (CSC Post-Baccalaureate Fellow) and Marko Krkeljas (Senior Software & Applications Developer, CSC Technical Manager).
 
 
 You can reach the CSC at csc@barnard.edu or reach out to Kiley Matschke at kmatschk@barnard.edu or Marko Krkeljas at mkrkelja@barnard.edu.
