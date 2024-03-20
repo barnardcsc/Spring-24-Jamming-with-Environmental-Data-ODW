@@ -12,6 +12,23 @@ Kiley Matschke (CSC Post-Baccalaureate Fellow) and Marko Krkeljas (Senior Softwa
 You can reach the CSC at csc@barnard.edu, Kiley Matschke at kmatschk@barnard.edu, and Marko Krkeljas at mkrkelja@barnard.edu
 
 
+## Setting Up
+
+For this workshop, we'll be using [Google Colab Notebooks](https://colab.research.google.com/). 
+
+**What is a Google Colab Notebook?**
+
+  - Google Colab lets you write and execute Python code in your browser.
+  - No setup required; just a Google account.
+
+**Creating a Google Colab Notebook**
+
+  1. [Follow this link.](https://colab.research.google.com/)
+  2. Click on the "+ New notebook" button on the bottom-left side.
+
+> &#x26a0;&#xfe0f; **For this workshop, we highly recommend using Google Colab, as we can't troubleshoot installation issues.**
+
+
 
 ## Workshop structure:
   1. Introductions: the CSC, NYC Open Data Week 2024
