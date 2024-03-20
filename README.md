@@ -9,8 +9,8 @@ Join us in celebrating NYC Open Data Week! This two-part workshop and data jam w
 
 **This workshop is structured as follows:**
   1. Introductions: the CSC, NYC Open Data Week 2024
-  2. Part I: Learn how to analyze an environmental dataset and generate visualizations in Google Colab, then extend these conclusions in ChatGPT.
-  3. Part II: Participants split into small groups for a data jam which will focus on creative ways to present data. These mini-projects may take the form of songs, collages, stories,
+  2. *Part I:* Learn how to analyze an environmental dataset and generate visualizations in Google Colab, then extend these conclusions in ChatGPT.
+  3. *Part II:* Participants split into small groups for a data jam which will focus on creative ways to present data. These mini-projects may take the form of songs, collages, stories,
      illustrations, poems, animations, and so on -- the hope is that participants use their creativity and strengths to discuss and dive deep into the data.
   5. Final takeaways and project share-outs!
      
@@ -21,13 +21,20 @@ Join us in celebrating NYC Open Data Week! This two-part workshop and data jam w
      
 
 **For quick access to resources and links mentioned throughout this workshop, please see below:**
+
+
 *Part I*
+
+
   1. [Programming: NYC Open Data Week 2024](https://2024.open-data.nyc/)
   2. [Dataset: Energy Usage from DOE Buildings](https://data.cityofnewyork.us/Environment/Energy-Usage-From-DOE-Buildings/mq6n-s45c/about_data)
   3. [Dataset dictionary](https://data.cityofnewyork.us/api/views/mq6n-s45c/files/6dfeb54d-5613-41e4-b66d-3e54a516a65c?download=true&filename=Energy_Usage_From_DOE_Buildings.xlsx)
   4. [Google Colab](https://colab.research.google.com/)
   5. [ChatGPT](https://chat.openai.com/)
 
+
 *Part II*
+
+
   6. [Canva](https://www.canva.com/)
   7. [Workshop feedback form](https://bit.ly/csc-exit-spring24)
