@@ -9,9 +9,9 @@ Join us in celebrating NYC Open Data Week! This two-part workshop and data jam w
 
 **This workshop is structured as follows:**
   1. Introductions: the CSC, NYC Open Data Week 2024
-  2. *Part I:* Learn how to analyze an environmental dataset and generate visualizations in Google Colab, then extend these conclusions in ChatGPT.
-  3. *Part II:* Participants split into small groups for a data jam which will focus on creative ways to present data. These mini-projects may take the form of songs, collages, stories,
-     illustrations, poems, animations, and so on -- the hope is that participants use their creativity and strengths to discuss and dive deep into the data.
+  2. *Part I:* Learn how to analyze a dataset and generate visualizations in Google Colab, then extend these findings in ChatGPT.
+  3. *Part II:* Participants split into groups for a data jam which will focus on creative ways to present data (songs, collages, stories,
+     illustrations, poems, animations, etc.)
   5. Final takeaways and project share-outs!
      
 
