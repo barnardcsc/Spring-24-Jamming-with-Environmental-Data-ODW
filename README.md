@@ -26,7 +26,7 @@ You can reach the CSC at csc@barnard.edu, Kiley Matschke at kmatschk@barnard.edu
   2. jamming-with-environmental-data.pdf: &ensp; PDF version of the Python notebook containing the full workshop code, outline, and links
      
 
-## For quick access to resources and links mentioned throughout this workshop, please see below:
+## Resources and links mentioned throughout the workshop:
 
 
 *Part I*
