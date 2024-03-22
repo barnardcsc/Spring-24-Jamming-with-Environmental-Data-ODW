@@ -39,8 +39,7 @@ For this workshop, we'll be using [Google Colab Notebooks](https://colab.researc
      
 
 ## This repository contains the following materials:
-  1. jamming-with-environmental-data.ipynb: &ensp; Python notebook containing the full workshop code, outline, and links
-  2. jamming-with-environmental-data.pdf: &ensp; PDF version of the Python notebook containing the full workshop code, outline, and links
+  1. jamming_with_environmental_data.ipynb: &ensp; Python notebook containing the full workshop code, outline, and links
      
 
 ## Resources and links mentioned throughout the workshop:
